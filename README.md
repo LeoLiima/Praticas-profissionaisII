@@ -65,3 +65,12 @@ Antes de executar o projeto, é necessário ter instalado:
 ## Licença
 
 Este projeto é distribuído sob a licença MIT.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por Aldo Junio Souza Brandão & Leonardo Ribeiro Gonzaga de Lima.
+
+
+
